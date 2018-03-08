@@ -1,0 +1,13 @@
+output
+data
+models
+input
+results
+venv
+venv3
+build
+virtuoso-db
+eval_out.log translation_webserver.log
+build
+log
+__pycache__
